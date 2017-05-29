@@ -1,10 +1,7 @@
 # cup-selection
 Okwii Allan 16/U/18964  BSc. Electrical Engineering Tweteise John Peter 16/U/12154/PSA BSc. Telecommunications Engineering Mubangizi Innocent 16/U/7137/PS BSc. Electrical Engineering Kyabawampi Timothy 15/U/6844/PS Kabona Ali 16/U/19442/PS 
 """
-Cups - a game of tracking a cup.
-
-Copyright (c) 2014 Grant Jenks
-http://www.grantjenks.com/
+#Cups - a game of tracking a cup.
 
 Exercises
 1. Increase the number of cups.
